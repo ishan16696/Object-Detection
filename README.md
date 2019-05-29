@@ -19,6 +19,6 @@ Object Detection with localisation using YOLO algorithm
 
 **Some Result**
 
-![Bike](git2.jpg)
-![MyPic](git1.jpeg)
-![Roger](git4.jpg)
+<img src="git2.jpg" width="600" height="450">
+<img src="git1.jpeg" width="600" height="450">
+<img src="git4.jpg" width="600" height="450">
